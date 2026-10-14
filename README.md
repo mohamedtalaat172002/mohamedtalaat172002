@@ -1,8 +1,10 @@
 # Hi there, I'm Mohamed Talaat 👋
 
-**Backend Developer | C# · ASP.NET Core · .NET **
+**Backend Developer | C# · ASP.NET Core · .NET**
 
 I build clean, well-structured web APIs and web applications with the .NET ecosystem. I care about separating concerns properly (Clean Architecture), writing maintainable code, and shipping features that are validated, localized, and ready to be deployed.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Talaat-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-talaat1720/)
 
 ---
 
@@ -12,9 +14,9 @@ I build clean, well-structured web APIs and web applications with the .NET ecosy
 | ---- | ------------ |
 | **Language** | C#, JavaScript |
 | **Frameworks** | ASP.NET Core (Web API, MVC) |
-| **Architecture & Patterns** | Clean Architecture, DDD ,CQRS, Mediator (MediatR)|
+| **Architecture & Patterns** | Clean Architecture, DDD, CQRS, Mediator (MediatR) |
 | **Data** | Entity Framework Core, SQL Server |
-| **Auth** | ASP.NET Core Identity, JWT,Keyclock, Refresh Tokens, Role-based Authorization |
+| **Auth** | ASP.NET Core Identity, JWT, Keycloak, Refresh Tokens, Role-based Authorization |
 | **Validation & Mapping** | FluentValidation, AutoMapper |
 | **Tooling & DevOps** | Docker, Docker Compose, Swagger / OpenAPI, Serilog, Seq |
 | **Cloud Services** | Cloudinary (image hosting) |
@@ -37,10 +39,12 @@ A full ASP.NET Core 8 solution for a cosmetic clinic: a public MVC website, an a
 **Stack:** ASP.NET Core 8 · MVC · Web API · EF Core · SQL Server · Identity · JWT · Cloudinary · Docker
 
 ---
+
 ### 📚 [Bookify API](https://github.com/mohamedtalaat172002/bookifyApi)
 A .NET API organized into separate Domain, Application, Infrastructure, and API layers, and containerized with Docker Compose.
 
-**Stack:** C# · ASP.NET Core · Clean Architecture · Docker
+**Stack:** C# · ASP.NET Core · Clean Architecture · Docker · DDD
+
 ---
 
 ### 🏫 [School API](https://github.com/mohamedtalaat172002/SchoolApi)
@@ -55,6 +59,7 @@ An API for managing school operations (students, departments), built on .NET 8 w
 
 **Stack:** .NET 8 · EF Core · SQL Server · MediatR · FluentValidation · AutoMapper
 
+---
 
 ### 🛒 [E-commerce MVC](https://github.com/mohamedtalaat172002/E-commerce-Mvc)
 An e-commerce web application built with ASP.NET Core MVC, structured into separate projects for the web layer, data access, models, and utilities.
@@ -71,6 +76,7 @@ I have 17 public repositories in total. Browse them all on my [GitHub profile](h
 
 ## 🤝 Let's Connect
 
-Feel free to follow me on GitHub or open an issue/PR on any of my projects. I'm always happy to talk about backend development, architecture, and .NET.
+- 💼 LinkedIn: [linkedin.com/in/mohamed-talaat1720](https://www.linkedin.com/in/mohamed-talaat1720/)
+- 💻 GitHub: [@mohamedtalaat172002](https://github.com/mohamedtalaat172002)
 
-⭐ If you find any of my projects useful, a star is always appreciated!
+Feel free to follow me on GitHub or open an issue/PR on any of my projects. I'm always happy to talk about backend development, architecture, and .NET.
