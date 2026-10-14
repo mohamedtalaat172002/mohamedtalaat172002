@@ -1,6 +1,6 @@
 # Hi there, I'm Mohamed Talaat 👋
 
-**Backend Developer | C# · ASP.NET Core · .NET 8**
+**Backend Developer | C# · ASP.NET Core · .NET **
 
 I build clean, well-structured web APIs and web applications with the .NET ecosystem. I care about separating concerns properly (Clean Architecture), writing maintainable code, and shipping features that are validated, localized, and ready to be deployed.
 
@@ -11,10 +11,10 @@ I build clean, well-structured web APIs and web applications with the .NET ecosy
 | Area | Technologies |
 | ---- | ------------ |
 | **Language** | C#, JavaScript |
-| **Frameworks** | ASP.NET Core 8 (Web API, MVC) |
-| **Architecture & Patterns** | Clean Architecture, CQRS, Mediator (MediatR), Repository Pattern, Unit of Work |
+| **Frameworks** | ASP.NET Core (Web API, MVC) |
+| **Architecture & Patterns** | Clean Architecture, DDD ,CQRS, Mediator (MediatR)|
 | **Data** | Entity Framework Core, SQL Server |
-| **Auth** | ASP.NET Core Identity, JWT, Refresh Tokens, Role-based Authorization |
+| **Auth** | ASP.NET Core Identity, JWT,Keyclock, Refresh Tokens, Role-based Authorization |
 | **Validation & Mapping** | FluentValidation, AutoMapper |
 | **Tooling & DevOps** | Docker, Docker Compose, Swagger / OpenAPI, Serilog, Seq |
 | **Cloud Services** | Cloudinary (image hosting) |
@@ -37,6 +37,11 @@ A full ASP.NET Core 8 solution for a cosmetic clinic: a public MVC website, an a
 **Stack:** ASP.NET Core 8 · MVC · Web API · EF Core · SQL Server · Identity · JWT · Cloudinary · Docker
 
 ---
+### 📚 [Bookify API](https://github.com/mohamedtalaat172002/bookifyApi)
+A .NET API organized into separate Domain, Application, Infrastructure, and API layers, and containerized with Docker Compose.
+
+**Stack:** C# · ASP.NET Core · Clean Architecture · Docker
+---
 
 ### 🏫 [School API](https://github.com/mohamedtalaat172002/SchoolApi)
 An API for managing school operations (students, departments), built on .NET 8 with Clean Architecture.
@@ -50,14 +55,6 @@ An API for managing school operations (students, departments), built on .NET 8 w
 
 **Stack:** .NET 8 · EF Core · SQL Server · MediatR · FluentValidation · AutoMapper
 
----
-
-### 📚 [Bookify API](https://github.com/mohamedtalaat172002/bookifyApi)
-A .NET API organized into separate Domain, Application, Infrastructure, and API layers, and containerized with Docker Compose.
-
-**Stack:** C# · ASP.NET Core · Clean Architecture · Docker
-
----
 
 ### 🛒 [E-commerce MVC](https://github.com/mohamedtalaat172002/E-commerce-Mvc)
 An e-commerce web application built with ASP.NET Core MVC, structured into separate projects for the web layer, data access, models, and utilities.
